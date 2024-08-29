@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokkaiiii&show_icons=true&theme=transparent)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
