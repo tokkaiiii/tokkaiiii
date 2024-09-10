@@ -1,3 +1,12 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/tokkaiiii?pet-id=616971559092463591"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:b9e4d6,100:c49fcb&height=120&text=welcome,%20my%20github&animation=&fontColor=ffffff&fontSize=70" />
     </div>
@@ -20,7 +29,7 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
           </div>
-    </div>
+    </div>  
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link="> </a>
