@@ -46,5 +46,8 @@
 ### work
 ![pc](https://img.shields.io/badge/Apple-MacBook_Pro_2021-99999?style=for-the-badge&logo=apple&logoColor=white)
 
+### most used language 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokkaiiii)
+
 ### status
 ![status](https://github-readme-stats.vercel.app/api?username=tokkaiiii&theme=blue-green)
