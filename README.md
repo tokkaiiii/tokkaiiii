@@ -12,7 +12,10 @@
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-#### Spring Webflux | GraphQL
+![webflux](https://img.shields.io/badge/Spring_Webflux-6DB33F?style=for-the-badge&logo=react&logoColor=white)
+![spring_cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=iCloud&logoColor=white)
+![kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🖥️ frontend
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
