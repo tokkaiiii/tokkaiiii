@@ -7,6 +7,8 @@
   height="300"
 />
 </a>
+
+<a href="https://tokkaiiii.tistory.com"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
   
 ### ⚙️ backend
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
