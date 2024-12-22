@@ -8,6 +8,7 @@
 />
 </a>
 
+### 📚 blog
 <a href="https://tokkaiiii.tistory.com"><img src="https://img.shields.io/badge/Tistory-E4405F?style=flat-square&logo=Tistory&logoColor=white"/></a>
   
 ### ⚙️ backend
