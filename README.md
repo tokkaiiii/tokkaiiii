@@ -13,15 +13,17 @@
   
 ### ⚙️ backend
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![nestjs](https://img.shields.io/badge/nestjs-00000F?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![webflux](https://img.shields.io/badge/Spring_Webflux-6DB33F?style=for-the-badge&logo=react&logoColor=white)
 ![spring_cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=iCloud&logoColor=white)
 ![kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### 🖥️ frontend
+### 🖥️ frontend 
+![nextjs](https://img.shields.io/badge/nextjs-20232A?style=for-the-badge&logo=nextdotjs&logoColor=#000000)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-query](https://img.shields.io/badge/reactquery-00000F?style=for-the-badge&logo=reactquery&logoColor=FF4154)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![flutter](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=02569B)
